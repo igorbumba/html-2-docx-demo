@@ -1,0 +1,15 @@
+{
+  "name": "html-2-word",
+  "version": "0.0.1",
+  "description": "Convert HTML to Word document",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "author": "Igor Bumba",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "fs": "^0.0.1-security",
+    "html-docx-js": "^0.3.1"
+  }
+}
